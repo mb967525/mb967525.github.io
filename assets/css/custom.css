@@ -1,3 +1,8 @@
 body {
 font-family: 'Quicksand', sans-serif;
 }
+
+.nav-content {
+  display: flex;
+  font-family: 'Quicksand' , sans-serif;
+}
