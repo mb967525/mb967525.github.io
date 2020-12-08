@@ -5,6 +5,7 @@ font-family: 'Quicksand', sans-serif;
 .nav-content {
   display: flex;
   font-family: 'Quicksand' , sans-serif;
+  background-color: #AA921E
 }
 
 .nav-link {
