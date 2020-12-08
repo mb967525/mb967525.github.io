@@ -5,11 +5,10 @@ font-family: 'Quicksand', sans-serif;
 .nav-content {
   display: flex;
   font-family: 'Quicksand' , sans-serif;
-  background-color: #AA921E
 }
 
 .nav-link {
  display: block;
  width: 20%; 
- color: blue; 
+ color: #AA921E; 
 }
